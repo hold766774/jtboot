@@ -1,0 +1,28 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.jtthink.Service.CacheService",
+      "name": "cache",
+      "type": "com.jtthink.Service.CacheService"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.jtthink.Service.CacheService",
+      "defaultValue": 0,
+      "name": "cache.cache-expire",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.jtthink.Service.CacheService",
+      "name": "cache.cache-type",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.jtthink.Service.CacheService",
+      "name": "cache.cached-server",
+      "type": "java.lang.String[]"
+    }
+  ]
+}
